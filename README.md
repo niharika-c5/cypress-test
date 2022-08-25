@@ -4,8 +4,8 @@ Cypress cucumber BDD project configured with latest cypress version (10)
 
 ## Techstack 
 
-cypress 10
-cypress-cucumber-preprocessor
+- cypress 10
+- cypress-cucumber-preprocessor
 
 ## Project structure 
 - baseUrl, specpattern and cucumber preprocessor are configured in cypress.config.js
